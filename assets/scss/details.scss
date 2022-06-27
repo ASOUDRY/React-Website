@@ -1,0 +1,16 @@
+.detail-ring {
+    // background-color: $theme-color;
+    .case-study {
+        width: 80%;
+        margin: auto;
+       text-align: center;
+       color: white;
+       border-style: solid;
+       border-top-width: 90px;
+       .border-ring {
+           background-color: white;
+           color: $theme-color;
+       }
+  
+    }
+}

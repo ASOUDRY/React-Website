@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/React-Website/static/css/main.a3044a1d.chunk.css",
+    "main.js": "/React-Website/static/js/main.87e6c6a1.chunk.js",
+    "main.js.map": "/React-Website/static/js/main.87e6c6a1.chunk.js.map",
+    "runtime~main.js": "/React-Website/static/js/runtime~main.c3988113.js",
+    "runtime~main.js.map": "/React-Website/static/js/runtime~main.c3988113.js.map",
+    "static/css/2.f1ea7a3d.chunk.css": "/React-Website/static/css/2.f1ea7a3d.chunk.css",
+    "static/js/2.bc0c7683.chunk.js": "/React-Website/static/js/2.bc0c7683.chunk.js",
+    "static/js/2.bc0c7683.chunk.js.map": "/React-Website/static/js/2.bc0c7683.chunk.js.map",
+    "index.html": "/React-Website/index.html",
+    "precache-manifest.437e451e44047cc9d8b2355808f89cab.js": "/React-Website/precache-manifest.437e451e44047cc9d8b2355808f89cab.js",
+    "service-worker.js": "/React-Website/service-worker.js",
+    "static/css/2.f1ea7a3d.chunk.css.map": "/React-Website/static/css/2.f1ea7a3d.chunk.css.map",
+    "static/css/main.a3044a1d.chunk.css.map": "/React-Website/static/css/main.a3044a1d.chunk.css.map",
+    "static/media/dog.png": "/React-Website/static/media/dog.e7c116cf.png",
+    "static/media/forum.png": "/React-Website/static/media/forum.75bc0224.png",
+    "static/media/movie.png": "/React-Website/static/media/movie.827de1ab.png",
+    "static/media/index.scss": "/React-Website/static/media/slick.f97e3bbf.svg"
+  }
+}
